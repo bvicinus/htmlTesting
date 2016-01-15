@@ -8,3 +8,15 @@ div{
     text-align: center; 
     color: palevioletred 
 }
+
+.Heading{
+    color: mediumblue
+}
+
+.Content {
+    color: darkslategrey;
+    text-align: justify;
+    font-size: small
+    
+    
+}
